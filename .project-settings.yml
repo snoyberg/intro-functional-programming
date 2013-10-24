@@ -5,7 +5,7 @@ extensions: {}
 environment: ghc-7.4.2-stable-13.09
 cabal-file: project.cabal
 modules:
-  Main(src/Main.hs):
-    filename: src/Main.hs
+  HelloWorld:
+    filename: src/HelloWorld.hs
 version: 1
 ghc-args: []
